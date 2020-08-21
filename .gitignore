@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+**/opendata_key.py
+/mass_shooting/opendata_key.py
