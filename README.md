@@ -1,7 +1,7 @@
 # PROJECT 1 
  **GUN AND BACKGROUND CHECK**
 
-![Guns](https://thumbs.gfycat.com/BeautifulLinearLeonberger-small.gif)
+![Guns](https://thumbs.gfycat.com/BeautifulLinearLeonberger-size_restricted.gif)
 
 ## Background:
 
