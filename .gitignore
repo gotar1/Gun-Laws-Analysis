@@ -125,3 +125,4 @@ dmypy.json
 .pyre/
 **/opendata_key.py
 /mass_shooting/opendata_key.py
+**/config.py
