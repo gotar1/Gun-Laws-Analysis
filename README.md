@@ -87,6 +87,21 @@ from 1999 to 2018.
 We looked at mass shooting in both states:
 
 #### <a id="TX-vs-CA-mass-shooting"></a>TX vs CA Mass Shooting
-![TX CA mass shooting](images/CA_vs_Tx/Ca-vs-Tx/Texas_Cal_mass_shooting.png)
+![TX CA mass shooting](images/CA_vs_Tx/Texas_Cal_mass_shooting.png)
 
 The numbers are not study, however over all, Texas number are going up and California's are going down.
+
+#### <a id="mass-shooting"></a>Mass Shooting
+![mass shooting](images/CA_vs_Tx/mass_shooting.png)
+
+## Conclusion
+
+Overall our study indicate that increasing guns laws slightly correlate with decreasing gun related deaths. 
+
+Further study need to be done. use Texas and California as sample population and run statistic analysis to determine if 
+
+thay represent the ramaining U.S.A populations.
+
+As stated early, gun laws and second ammendment are very controversial issues and very political at the same time. Many arguments can be made
+
+in both side of the isle, however everyone seems to agree on one thing:"We Need to Stop the Violence Across the Country".
