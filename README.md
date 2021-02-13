@@ -87,12 +87,12 @@ from 1999 to 2018.
 We looked at mass shooting in both states:
 
 #### <a id="TX-vs-CA-mass-shooting"></a>TX vs CA Mass Shooting
-![TX vs CA mass shooting](images/CA-vs-Tx/mass_shooting.png)
+![TX vs CA mass shooting](images/Ca-vs-Tx/mass_shooting.png)
 
 The numbers are not study, however over all, Texas number are going up and California's are going down.
 
 #### <a id="mass-shooting"></a>Mass Shooting
-![mass shooting](images/CA-vs-Tx/mass_shooting_map.png)
+![mass shooting](images/Ca-vs-Tx/mass_shooting_map.png)
 
 ## Conclusion
 
