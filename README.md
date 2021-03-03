@@ -8,11 +8,11 @@ Team Members: Rene Martinez, Eltahir Gotar, and Aaron Snytka.
 
 ## Background:
 
-Gun control is a very sensitive issue in America and has been throughout our history. The debate been going on for years about changing the Sencond
+Gun control is a very sensitive issue in America and has been throughout our history. The debate been going on for years about changing the Second
 
-Ammendment and introducing more strict gun laws. In this project we looked at gun laws and how effective they are in lowering gun's relarted crimes.
+Amendment and introducing more strict gun laws. In this project we looked at gun laws and how effective they are in lowering gun's related crimes.
 
-We also look at the idea that stricter gun laws reduces gun's related deaths.
+We also looked at the idea that stricter gun laws reduces gun's related deaths.
 
 We used the states of Texas and California as a case study for two reasons:
 
