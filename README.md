@@ -8,11 +8,11 @@ Team Members: Rene Martinez, Eltahir Gotar, and Aaron Snytka.
 
 ## Background:
 
-Guns control is a very sensitive issue in America and had been throughout our history. The depate been going on for years about changing the Sencond
+Gun control is a very sensitive issue in America and has been throughout our history. The debate been going on for years about changing the Sencond
 
-Ammendment and introducing more strict gun laws. In this project we look at guns laws and how effective they are in lowering gun relarted crimes.
+Ammendment and introducing more strict gun laws. In this project we looked at gun laws and how effective they are in lowering gun's relarted crimes.
 
-We also look at the idea that stricter gun laws reduces guns deaths.
+We also look at the idea that stricter gun laws reduces gun's related deaths.
 
 We used the states of Texas and California as a case study for two reasons:
 
@@ -25,7 +25,7 @@ Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH O
 
 **Data sources:**
 Mass shooting data downloaded from Everytown for Gun safety Support Fund [Here](https://www.everytownresearch.org/mass-shooting-in-america-2009-2019).
-Guns laws data was downloaded from opendatasoft web page [Here](https://public.opendatasoft.com/explore/?sort=modified)
+Gun laws data was downloaded from opendatasoft web page [Here](https://public.opendatasoft.com/explore/?sort=modified)
 Populations data from Census bureau [Here](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html)
 Gun related death data from CDC [Here](http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision)
 Firearm mortality data from CDC [Here](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
