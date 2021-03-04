@@ -12,7 +12,7 @@ Gun control is a very sensitive issue in America and has been throughout our his
 
 Amendment and introducing more strict gun laws has been going on for years. In this project we are looking at gun laws at state level and we are going to 
 
-analyze their effectiveness in lowering gun's related crimes. We also looked at the idea that stricter gun laws reduces gun's related deaths.
+analyze their effectiveness in lowering gun's related crimes. We also going to evaluate the idea that stricter gun laws reduces gun's related deaths.
 
 We used the states of Texas and California as a case study for two reasons:
 
@@ -29,7 +29,7 @@ Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH O
 * Populations data from Census bureau [Census](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html).
 * Gun related death data from [CDC](http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision).
 * Firearm mortality data from [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm).
-* [gunpolicy](https://www.gunpolicy.org/api).
+* Firearm data from [gunpolicy](https://www.gunpolicy.org/api).
 * The National Crime Victimization Survey (NCVS) data from the bureau of justice [bjs](https://www.bjs.gov/developer/ncvs/index.cfm).
 * Firearm background checks data from [BuzzFeedNews](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data).
 
