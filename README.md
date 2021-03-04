@@ -97,9 +97,7 @@ The numbers are not study, however over all, Texas number are going up and Calif
 * Overall, our study indicate that increasing gun laws slightly correlate with decreasing gun related deaths. 
 
 * Further study need to be done. use Texas and California as sample population and run statistic analysis to determine if 
-
 thay represent the remaining U.S.A populations.
 
 * As stated early, gun laws and Second Amendment are very controversial issues and very political at the same time. Many arguments can be made
-
 in both side of the isle, however everyone seems to agree on one thing:"We Need to Stop the Violence Across the Country".
