@@ -8,11 +8,11 @@ Team Members: Rene Martinez, Eltahir Gotar, and Aaron Snytka.
 
 ## Background:
 
-Gun control is a very sensitive issue in America and has been throughout our history. The debate been going on for years about changing the Second
+Gun control is a very sensitive issue in America and has been throughout our history. The debate about changing the Second
 
-Amendment and introducing more strict gun laws. In this project we looked at gun laws and how effective they are in lowering gun's related crimes.
+Amendment and introducing more strict gun laws has been going on for years. In this project we are looking at gun laws at state level and we are going to 
 
-We also looked at the idea that stricter gun laws reduces gun's related deaths.
+analyze their effectiveness in lowering gun's related crimes. We also looked at the idea that stricter gun laws reduces gun's related deaths.
 
 We used the states of Texas and California as a case study for two reasons:
 
@@ -24,24 +24,22 @@ We used the states of Texas and California as a case study for two reasons:
 Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH OBLIGED AND NON OBLIGED BACKGROUND REQUIREMENT IN RELATION TO CRIME RATES DUE TO GUN DEATHS
 
 **Data sources:**
-Mass shooting data downloaded from Everytown for Gun safety Support Fund [Here](https://www.everytownresearch.org/mass-shooting-in-america-2009-2019).
-Gun laws data was downloaded from opendatasoft web page [Here](https://public.opendatasoft.com/explore/?sort=modified)
-Populations data from Census bureau [Here](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html)
-Gun related death data from CDC [Here](http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision)
-Firearm mortality data from CDC [Here](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)
-
+* Mass shooting data downloaded from Everytown for Gun safety Support Fund [everytownresearch](https://www.everytownresearch.org/mass-shooting-in-america-2009-2019).
+* Gun laws data was downloaded from opendatasoft website [Opendatasoft](https://public.opendatasoft.com/explore/?sort=modified).
+* Populations data from Census bureau [Census](https://www.census.gov/data/tables/time-series/demo/popest/2010s-state-total.html).
+* Gun related death data from [CDC](http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision).
+* Firearm mortality data from [CDC](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm).
+* [gunpolicy](https://www.gunpolicy.org/api).
+* The National Crime Victimization Survey (NCVS) data from the bureau of justice [bjs](https://www.bjs.gov/developer/ncvs/index.cfm).
+* Firearm background checks data from [BuzzFeedNews](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data).
 
 ### Research Questions:
- 
-   * What are the number of applicants that were approved or denied on background checks for Texas and California from 2013-2018?
    
-   * What are the number of firearm purchases in Texas and California from 2013-2018?
+   * What are the firearm related death rates in Texas and California from 1999-2018?
    
-   * What are the firearm related crime rates in Texas and California from 2013-2018?
+   * How do the background checks and other gun laws effect firearm related death rates from 1999-2018?
    
-   * What do the background checks, firearm purchases, and firearm related crime rates look like from 2013-2018?
-   
-   * Sources for datasets we used: [gunpolicy](https://www.gunpolicy.org/api), [bjs](https://www.bjs.gov/developer/ncvs/index.cfm) and [BuzzFeedNews](https://github.com/BuzzFeedNews/nics-firearm-background-checks/tree/master/data).
+   * How many mass shooting incidents happens in both states through the course of this analysis.
    
 ### Tasks Breakdown:
    
@@ -66,7 +64,7 @@ We looked at gun ralated deaths for each state.
 
 As you can see from the above chart: General trend is that Texas gun related deaths is going up study while California is going down, however,
 
-through out the course of this studey time from 1999-2018, California numbers are very much the same in 1999 and 2018. indeed Texas have more gun
+through out the course of this analysis time from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed Texas have more gun
 
 related deaths in 2018 than California, but over time California numbers did not improve much. this become more obvious with next analogy.
 
