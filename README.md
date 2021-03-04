@@ -1,4 +1,4 @@
-# PROJECT 1 
+# Gun Laws Analysis  
 
 Team Members: Rene Martinez, Eltahir Gotar, and Aaron Snytka.
 
