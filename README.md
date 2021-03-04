@@ -15,7 +15,6 @@ their effectiveness in lowering gun's related crimes. We also going to evaluate 
 We used the states of Texas and California as a case study for two reasons:
 
  1- They are the most populous states in America.
-
  2- California is an obliged (applicants will be granted license as long as they meet extensive requirements). While Texas is a non obliged state 
 (applicants will be granted license as long as they meet basic requirements) [Learn More](https://giffords.org/lawcenter/gun-laws/policy-areas/background-checks/universal-background-checks/).
 
@@ -37,7 +36,7 @@ Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH O
    
    * How do the background checks and other gun laws effect firearm related death rates from 1999-2018?
    
-   * How many mass shooting incidents happens in both states through the course of this analysis.
+   * How many mass shooting incidents happens in both states through the same time period?
    
 ### Tasks Breakdown:
    
@@ -60,11 +59,7 @@ We looked at gun related deaths for each state.
 #### <a id="CA-vs-TX-gun-ralated-death"></a>CA vs TX Guns Related Deaths
 ![CA vs TX gun ralated death](images/Ca-vs-Tx/cal_vs_Tex_Death.png)
 
-As you can see from the above chart: General trend is that Texas gun related deaths is going up while California is going down, however,
-
-through out the course of this analysis time from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed Texas have more gun
-
-related deaths in 2018 than California, but over all California numbers did not improve much. this become more obvious with next analogy.
+As you can see from the above chart: General trend is that Texas gun related deaths is going up while California is going down, however, through out the course of this analysis time from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed, Texas have more gun related deaths in 2018 than California, but over all, California numbers did not improve much. this become more obvious with next analogy.
 
 **Second**
 
@@ -83,8 +78,7 @@ in a study pace.
 #### <a id="CA-gun-laws-vs-death"></a>CA Gun Laws vs Gun Related Deaths
 ![CA-gun-laws-vs-death](images/California/cal_gun_deaths.png)
 
-For Calfornia, they  introduced 35 new laws for the same period and the number of deaths is going up and down, however the change is not that much
-from 1999 to 2018.
+For Calfornia, they  introduced 35 new laws for the same period and the number of deaths is fluctuating up and down, however, in term of numbers the change is not that much from 1999 to 2018.
 
 **Third**
 
@@ -100,7 +94,7 @@ The numbers are not study, however over all, Texas number are going up and Calif
 
 ## Conclusion
 
-Overall our study indicate that increasing gun laws slightly correlate with decreasing gun related deaths. 
+Overall, our study indicate that increasing gun laws slightly correlate with decreasing gun related deaths. 
 
 Further study need to be done. use Texas and California as sample population and run statistic analysis to determine if 
 
