@@ -10,9 +10,9 @@ Team Members: Rene Martinez, Eltahir Gotar, and Aaron Snytka.
 
 Gun control is a very sensitive issue in America and has been throughout our history. The debate about changing the Second
 
-Amendment and introducing more strict gun laws has been going on for years. In this project we are looking at gun laws at state level and we are going to 
+Amendment and introducing more strict gun laws has been going on for years. In this project we are looking at gun laws at state level and we are going to analyze
 
-analyze their effectiveness in lowering gun's related crimes. We also going to evaluate the idea that stricter gun laws reduces gun's related deaths.
+their effectiveness in lowering gun's related crimes. We also going to evaluate the idea that stricter gun laws reduces gun's related deaths.
 
 We used the states of Texas and California as a case study for two reasons:
 
