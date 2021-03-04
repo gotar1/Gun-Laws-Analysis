@@ -9,7 +9,6 @@ Team Members: Rene Martinez, Eltahir Gotar, and Aaron Snytka.
 ## Background:
 
 Gun control is a very sensitive issue in America and has been throughout our history. The debate about changing the Second
-
 Amendment and introducing more strict gun laws has been going on for years. In this project we are looking at gun laws at state level and we are going to analyze
 their effectiveness in lowering gun's related crimes. We also going to evaluate the idea that stricter gun laws reduces gun's related deaths.
 
@@ -42,46 +41,46 @@ Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH O
    
 ### Tasks Breakdown:
    
-   * Parse background check data to retrieve approvals and denials for Texas and California from 2013-2018, store in a table, and plot a line graph for each state      showing the time frame, approvals, and denials.
+   * Parse background check data for Texas and California from 1999-2018, store in a table, and plot a line graph for each state showing the time frame.
    
-   * Parse firearm purchase data to retrieve total firearms sold in Texas and California from 2013-2018, store in a table, and plot each state’s result in a line      graph.
-   
-   * Parse firearm related crime rates in Texas and California from 2013-2018, store in a table, and plot each state’s result in a line graph.
+   * Parse firearm related crime rates in Texas and California from 1999-2018, store in a table, and plot each state’s result in a line graph.
    
    * Determine if there is a correlation between background checks and firearm related crimes by creating a scatter plots of Texas and California showing background    checks and firearm related crime rates.
    
+   * Draw a map of mass shooting in both states for the timeframe of the analysis.
+      
    * Make graphs for each task.
 
 ## Analysis:
 
 **First**
 
-We looked at gun ralated deaths for each state. 
+We looked at gun related deaths for each state. 
 
 #### <a id="CA-vs-TX-gun-ralated-death"></a>CA vs TX Guns Related Deaths
 ![CA vs TX gun ralated death](images/Ca-vs-Tx/cal_vs_Tex_Death.png)
 
-As you can see from the above chart: General trend is that Texas gun related deaths is going up study while California is going down, however,
+As you can see from the above chart: General trend is that Texas gun related deaths is going up while California is going down, however,
 
 through out the course of this analysis time from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed Texas have more gun
 
-related deaths in 2018 than California, but over time California numbers did not improve much. this become more obvious with next analogy.
+related deaths in 2018 than California, but over all California numbers did not improve much. this become more obvious with next analogy.
 
 **Second**
 
-We looked at state total number of guns laws vs gun ralated death for the same period of time.
+We looked at state total number of gun laws vs gun ralated death for the same period of time.
  
 ### Texas:
 
-#### <a id="TX-gun-laws-vs-death"></a>TX Guns Laws vs Guns Related Deaths
+#### <a id="TX-gun-laws-vs-death"></a>TX Guns Laws vs Gun Related Deaths
 ![TX-gun-laws-vs-death](images/Texas/tex_gun_deaths.png)
 
 Overtime the state did not introduce alot of laws, only five new laws from 1999 to 2018. Once again, the number of gun related death is going up
-in an study pace. 
+in a study pace. 
 
 ### California:
 
-#### <a id="CA-gun-laws-vs-death"></a>CA Guns Laws vs Guns Related Deaths
+#### <a id="CA-gun-laws-vs-death"></a>CA Gun Laws vs Gun Related Deaths
 ![CA-gun-laws-vs-death](images/California/cal_gun_deaths.png)
 
 For Calfornia, they  introduced 35 new laws for the same period and the number of deaths is going up and down, however the change is not that much
@@ -101,12 +100,12 @@ The numbers are not study, however over all, Texas number are going up and Calif
 
 ## Conclusion
 
-Overall our study indicate that increasing guns laws slightly correlate with decreasing gun related deaths. 
+Overall our study indicate that increasing gun laws slightly correlate with decreasing gun related deaths. 
 
 Further study need to be done. use Texas and California as sample population and run statistic analysis to determine if 
 
-thay represent the ramaining U.S.A populations.
+thay represent the remaining U.S.A populations.
 
-As stated early, gun laws and second ammendment are very controversial issues and very political at the same time. Many arguments can be made
+As stated early, gun laws and Second Amendment are very controversial issues and very political at the same time. Many arguments can be made
 
 in both side of the isle, however everyone seems to agree on one thing:"We Need to Stop the Violence Across the Country".
