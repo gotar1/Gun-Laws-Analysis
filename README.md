@@ -75,9 +75,12 @@ California, but over all, California numbers did not improve much. this become m
 
 **Second:**
 
-We looked at state total number of gun laws vs gun ralated death for the same period of time.
+We looked at state total number of gun laws vs gun related death for the same period of time.
  
 ### Texas:
+
+#### <a id="TX-gun-laws-&-death-rate"></a>TX Guns Laws & Death Rates
+![TX-gun-laws-&-death-rate](images/Texas/tex_totlaw_death_hist.png)
 
 #### <a id="TX-gun-laws-vs-death"></a>TX Guns Laws vs Gun Related Deaths
 ![TX-gun-laws-vs-death](images/Texas/tex_gun_deaths.png)
@@ -86,6 +89,9 @@ Overtime the state did not introduce alot of laws, only five new laws from 1999 
 in a study pace. 
 
 ### California:
+
+#### <a id="CA-gun-laws-&-death-rate"></a>CA Guns Laws & Death Rates
+![CA-gun-laws-&-death-rate](images/California/cal_totlaw_death_hist.png)
 
 #### <a id="CA-gun-laws-vs-death"></a>CA Gun Laws vs Gun Related Deaths
 ![CA-gun-laws-vs-death](images/California/cal_gun_deaths.png)
