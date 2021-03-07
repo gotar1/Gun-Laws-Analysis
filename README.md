@@ -74,7 +74,7 @@ General trend is that Texas gun related deaths is going up while California is g
 
 from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed, Texas have more gun related deaths in 2018 than 
 
-California, but over all, California numbers did not improve much. this become more obvious with next analogy.
+California, but overall, California numbers did not improve much. This become more obvious with next analogy.
 
 **Second:**
 
