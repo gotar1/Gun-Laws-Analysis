@@ -56,7 +56,7 @@ We tried to answer three questions in this analysis. from 1999-2018:
 
 ## Analysis:
 
-**First**
+**First:**
 
 We looked at gun related deaths for each state. 
 
@@ -64,9 +64,14 @@ We looked at gun related deaths for each state.
 ![CA vs TX gun ralated death](images/Ca-vs-Tx/cal_vs_Tex_Death.png)
 
 As you can see from the above chart: 
-General trend is that Texas gun related deaths is going up while California is going down, however, through out the course of this analysis time from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed, Texas have more gun related deaths in 2018 than California, but over all, California numbers did not improve much. this become more obvious with next analogy.
 
-**Second**
+General trend is that Texas gun related deaths is going up while California is going down, however, through out the course of this analysis time from 1999-2018,
+
+California numbers are very much the same in 1999 and 2018. Indeed, Texas have more gun related deaths in 2018 than California, but over all, California numbers did
+
+not improve much. this become more obvious with next analogy.
+
+**Second:**
 
 We looked at state total number of gun laws vs gun ralated death for the same period of time.
  
@@ -85,7 +90,7 @@ in a study pace.
 
 For Calfornia, they  introduced 35 new laws for the same period and the number of deaths is fluctuating up and down, however, in term of numbers the change is not that much from 1999 to 2018.
 
-**Third**
+**Third:**
 
 We looked at mass shooting in both states:
 
