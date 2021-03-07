@@ -22,6 +22,9 @@ We used the states of Texas and California as a case study for two reasons:
  2- California is an obliged (applicants will be granted license as long as they meet extensive requirements). While Texas is a non obliged state 
 (applicants will be granted license as long as they meet basic requirements) [Learn More](https://giffords.org/lawcenter/gun-laws/policy-areas/background-checks/universal-background-checks/).
 
+#### <a id="TX-&-CA-background-check-total-gun-laws"></a>TX & CA Background Check and Total Gun Laws
+![TX & CA background check and total gun laws](images/Ca-vs-Tx/caltex_gun_laws.png)
+
 Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH OBLIGED AND NON OBLIGED BACKGROUND REQUIREMENT IN RELATION TO CRIME RATES DUE TO GUN DEATHS
 
 **Data sources:**
@@ -101,6 +104,9 @@ For Calfornia, they  introduced 35 new laws for the same period and the number o
 **Third:**
 
 We looked at mass shooting in both states:
+
+#### <a id="mass-shooting-vs-gun-laws"></a>Mass Shooting vs Gun Laws
+![mass shooting vs gun laws](images/Ca-vs-Tx/caltex_mass_shooting.png)
 
 #### <a id="TX-vs-CA-mass-shooting"></a>TX vs CA Mass Shooting
 ![TX vs CA mass shooting](images/Ca-vs-Tx/mass_shooting.png)
