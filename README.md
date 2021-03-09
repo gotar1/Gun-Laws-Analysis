@@ -27,9 +27,9 @@ Time period for this analysis is from 1999-2018. We used the states of Texas and
 #### <a id="TX-&-CA-background-check-total-gun-laws"></a>TX & CA Background Check and Total Gun Laws
 ![TX & CA background check and total gun laws](images/Ca-vs-Tx/caltex_gun_laws.png)
 
-Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH OBLIGED AND NON OBLIGED 
+Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH OBLIGED AND NON 
 
-BACKGROUND REQUIREMENT IN RELATION TO CRIME RATES DUE TO GUN DEATHS
+OBLIGED BACKGROUND REQUIREMENT IN RELATION TO CRIME RATES DUE TO GUN DEATHS
 
 **Data sources:**
 * Mass shooting data downloaded from Everytown for Gun safety Support Fund [everytownresearch](https://www.everytownresearch.org/mass-shooting-in-america-2009-2019).
