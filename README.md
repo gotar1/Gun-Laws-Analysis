@@ -20,13 +20,16 @@ Time period for this analysis is from 1999-2018. We used the states of Texas and
 
  1- They are the most populous states in America.
  
- 2- California is an obliged (applicants will be granted license as long as they meet extensive requirements). While Texas is a non obliged state 
-(applicants will be granted license as long as they meet basic requirements) [Learn More](https://giffords.org/lawcenter/gun-laws/policy-areas/background-checks/universal-background-checks/).
+ 2- California is an obliged (applicants will be granted license as long as they meet extensive requirements). While 
+ 
+ Texas is a non obliged state (applicants will be granted license as long as they meet basic requirements) [Learn More](https://giffords.org/lawcenter/gun-laws/policy-areas/background-checks/universal-background-checks/).
 
 #### <a id="TX-&-CA-background-check-total-gun-laws"></a>TX & CA Background Check and Total Gun Laws
 ![TX & CA background check and total gun laws](images/Ca-vs-Tx/caltex_gun_laws.png)
 
-Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH OBLIGED AND NON OBLIGED BACKGROUND REQUIREMENT IN RELATION TO CRIME RATES DUE TO GUN DEATHS
+Description/Outline: THE EFFECTIVENESS OF BACKGROUND CHECKS ACROSS STATES WITH OBLIGED AND NON OBLIGED BACKGROUND 
+
+REQUIREMENT IN RELATION TO CRIME RATES DUE TO GUN DEATHS
 
 **Data sources:**
 * Mass shooting data downloaded from Everytown for Gun safety Support Fund [everytownresearch](https://www.everytownresearch.org/mass-shooting-in-america-2009-2019).
@@ -91,8 +94,9 @@ We looked at state total number of gun laws vs gun related death for the same pe
 #### <a id="TX-gun-laws-vs-death"></a>TX Guns Laws vs Gun Related Deaths
 ![TX-gun-laws-vs-death](images/Texas/tex_gun_deaths.png)
 
-Overtime the state did not introduce alot of laws, only five new laws from 1999 to 2018. Once again, the number of gun related death is going up
-in a study pace. 
+Overtime the state did not introduce alot of laws, only five new laws from 1999 to 2018. Once again, the number of 
+
+gun related death is going up in a study pace. 
 
 ### California:
 
@@ -102,7 +106,9 @@ in a study pace.
 #### <a id="CA-gun-laws-vs-death"></a>CA Gun Laws vs Gun Related Deaths
 ![CA-gun-laws-vs-death](images/California/cal_gun_deaths.png)
 
-For Calfornia, they  introduced 35 new laws for the same period and the number of deaths is fluctuating up and down, however, in term of numbers the change is not that much from 1999 to 2018.
+For Calfornia, they  introduced 35 new laws for the same period and the number of deaths is fluctuating up and down, 
+
+however, in term of numbers the change is not that much from 1999 to 2018.
 
 **Third:**
 
