@@ -16,8 +16,7 @@ gun laws at state level and analyzed their effectiveness in lowering gun's relat
 
 idea that stricter gun laws reduces gun's related deaths.
 
-Time period for this analysis is from 1999-2018.
-We used the states of Texas and California as a case study for two reasons:
+Time period for this analysis is from 1999-2018. We used the states of Texas and California as a case study for two reasons:
 
  1- They are the most populous states in America.
  
@@ -72,11 +71,13 @@ We looked at gun related deaths for each state.
 
 As you can see from the above chart: 
 
-General trend is that Texas gun related deaths is going up while California is going down, however, through out the course of this analysis time 
+General trend is that Texas gun related deaths is going up while California is going down, however, through out the 
 
-from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed, Texas have more gun related deaths in 2018 than 
+course of this analysis time from 1999-2018, California numbers are very much the same in 1999 and 2018. Indeed, 
 
-California, but overall, California numbers did not improve much. This become more obvious with next analogy.
+Texas have more gun related deaths in 2018 than California, but overall, California numbers did not improve much. 
+
+This become more obvious with next analogy.
 
 **Second:**
 
